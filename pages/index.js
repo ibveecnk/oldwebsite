@@ -9,8 +9,7 @@ const content = (
       <Title text="ibveecnk's page"></Title>
       <p>Hello, I am Iven.</p>
       <p>
-        Welcome to my website, which is based on{" "}
-        <Link href="https://nextjs.org">next.js</Link>.
+        I am studying <i>Computer Science</i> at <i>University of Mannheim</i>. 
       </p>
     </div>
   </div>
