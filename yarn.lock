@@ -1782,10 +1782,10 @@ escape-string-regexp@^1.0.2, escape-string-regexp@^1.0.5:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
   integrity sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=
 
-eslint-config-get-off-my-lawn@6.0.2:
-  version "6.0.2"
-  resolved "https://registry.yarnpkg.com/eslint-config-get-off-my-lawn/-/eslint-config-get-off-my-lawn-6.0.2.tgz#78d88908b5a69483edb934ca17e03f568356266a"
-  integrity sha512-kPN5oZHJdI4RWvdZMFjTpQCORr6IfRCdrbOQZliOAot3x6H+W8e96Kmv729fXGuRG6ff1ZzOXcK3hkJNd8ffbw==
+eslint-config-get-off-my-lawn@6.0.3:
+  version "6.0.3"
+  resolved "https://registry.yarnpkg.com/eslint-config-get-off-my-lawn/-/eslint-config-get-off-my-lawn-6.0.3.tgz#d02866b2b153371568128e07a2da0a8e3d3494b5"
+  integrity sha512-ddYJ7cxA8naxt/gYJIIrkDCWR0MoAS3KAbeKPP9p5hwaNGGFP2VuFqYZZnZMZrsr1OF5xJCGQyxEv3KxoQO4HQ==
   dependencies:
     "@babel/core" "7.13.10"
     "@babel/eslint-parser" "7.13.10"
