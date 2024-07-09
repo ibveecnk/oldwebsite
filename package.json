@@ -14,7 +14,7 @@
     "@octokit/rest": "18.12.0",
     "@zeit/next-sass": "1.0.1",
     "fs": "0.0.1-security",
-    "glob": "7.2.3",
+    "glob": "11.0.0",
     "gray-matter": "4.0.3",
     "loadjs": "4.3.0",
     "memory-cache": "0.2.0",
