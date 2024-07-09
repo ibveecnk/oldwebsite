@@ -3075,10 +3075,10 @@ loader-utils@^2.0.0:
     emojis-list "^3.0.0"
     json5 "^2.1.2"
 
-loadjs@4.2.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/loadjs/-/loadjs-4.2.0.tgz#2a0336376397a6a43edf98c9ec3229ddd5abb6f6"
-  integrity sha512-AgQGZisAlTPbTEzrHPb6q+NYBMD+DP9uvGSIjSUM5uG+0jG15cb8axWpxuOIqrmQjn6scaaH8JwloiP27b2KXA==
+loadjs@4.3.0:
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/loadjs/-/loadjs-4.3.0.tgz#38c578cbb2e08835aa4407bd4ac6507dd1f7ed10"
+  integrity sha512-vNX4ZZLJBeDEOBvdr2v/F+0aN5oMuPu7JTqrMwp+DtgK+AryOlpy6Xtm2/HpNr+azEa828oQjOtWsB6iDtSfSQ==
 
 locate-path@^2.0.0:
   version "2.0.0"
