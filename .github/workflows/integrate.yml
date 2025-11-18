@@ -42,7 +42,7 @@ jobs:
       - run: touch out/.nojekyll
 
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@94f3c658273cf92fb48ef99e5fbc02bd2dc642b2 # v4.6.3
+        uses: JamesIves/github-pages-deploy-action@4a3abc783e1a24aeb44c16e869ad83caf6b4cc23 # v4.7.4
         with:
           ACCESS_TOKEN: ${{secrets.DEPLOY_KEY}}
           BRANCH: gh-pages
